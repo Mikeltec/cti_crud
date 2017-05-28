@@ -1,0 +1,7 @@
+conec_ticrud_user:
+    resource: "@ConecTICRUDUserBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation

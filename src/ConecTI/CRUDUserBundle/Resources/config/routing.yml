@@ -1,0 +1,3 @@
+conec_ticrud_user_homepage:
+    path:     /
+    defaults: { _controller: ConecTICRUDUserBundle:Default:index }
